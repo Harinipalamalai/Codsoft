@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    background-image: url(https://cdn.dribbble.com/users/1995422/screenshots/19650338/media/ff47969afb5f4940d25f6b4f2ac568f8.jpg?resize=1600x1200&vertical=center);
+}
+
+.cal-wrap{
+    width: 318.4px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color:white;
+    border-radius: 10px;
+}
+
+.cal-function{
+    background-color: #cdcdcd;
+    
+}
+
+.cal-button{
+    height: 75px;
+    width: 75px;
+    border: 0px;
+}
+
+.cal-button:hover{
+    background-color: grey;
+}
+
+.cal-display{
+    height: 75px;
+    width: 97.6%;   
+    text-align: right;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 4px;
+    
+
+}
+
+.cal-display-sol{
+    height: 75px;
+    width: 97.6%;
+    text-align: right;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 2px;
+}
+
+.cal-sol{
+    background-color: #85c1e8;
+}
+
+.cal-sol:hover{
+    background-color: #1fa7ff;
+}
+.cal{
+    height:50px;
+    width: 418%;
+    background-color: #6eb4e280;
+    border: 0px;
+}
